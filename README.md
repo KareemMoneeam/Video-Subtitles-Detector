@@ -12,7 +12,7 @@ Finally, the program also detects another area of interest within the frame usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-subtitles-detector.git
+   git clone https://github.com/KareemMoneeam/video-subtitles-detector.git
    ```
 
 2. Install dependencies:
